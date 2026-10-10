@@ -8,7 +8,7 @@ from preferences import Preferences
 
 def main():
     with tempfile.TemporaryDirectory(prefix='blp-studio-formats-') as tmp:
-        root=Path(tmp);src=root/'source.png';image=Image.new('RGBA',(32,16))
+        root=Path(tmp).resolve();src=root/'source.png';image=Image.new('RGBA',(32,16))
         for y in range(16):
             for x in range(32):image.putpixel((x,y),(x*8,y*16,(x+y)*5,x*8))
         image.save(src)
