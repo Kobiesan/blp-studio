@@ -1,0 +1,17 @@
+{
+  "Tcl-LICENSE.txt": "https://raw.githubusercontent.com/tcltk/tcl/core-8-6-branch/license.terms",
+  "libjpeg-turbo-LICENSE.txt": "https://raw.githubusercontent.com/libjpeg-turbo/libjpeg-turbo/main/LICENSE.md",
+  "libjpeg-IJG-LICENSE.txt": "https://raw.githubusercontent.com/libjpeg-turbo/libjpeg-turbo/main/README.ijg",
+  "zlib-ng-LICENSE.txt": "https://raw.githubusercontent.com/zlib-ng/zlib-ng/develop/LICENSE.md",
+  "libtiff-LICENSE.txt": "https://gitlab.com/libtiff/libtiff/-/raw/v4.7.1/LICENSE.md",
+  "LittleCMS-LICENSE.txt": "https://raw.githubusercontent.com/mm2/Little-CMS/master/LICENSE",
+  "OpenJPEG-LICENSE.txt": "https://raw.githubusercontent.com/uclouvain/openjpeg/master/LICENSE",
+  "FreeType-LICENSE.txt": "https://raw.githubusercontent.com/freetype/freetype/master/docs/FTL.TXT",
+  "WebP-LICENSE.txt": "https://raw.githubusercontent.com/webmproject/libwebp/main/COPYING",
+  "WebP-PATENTS.txt": "https://raw.githubusercontent.com/webmproject/libwebp/main/PATENTS",
+  "AVIF-LICENSE.txt": "https://raw.githubusercontent.com/AOMediaCodec/libavif/main/LICENSE",
+  "dav1d-LICENSE.txt": "https://raw.githubusercontent.com/videolan/dav1d/master/COPYING",
+  "AOM-LICENSE.txt": "https://aomedia.googlesource.com/aom/+/refs/heads/main/LICENSE?format=TEXT",
+  "AOM-PATENTS.txt": "https://aomedia.googlesource.com/aom/+/refs/heads/main/PATENTS?format=TEXT",
+  "OpenSSL-LICENSE.txt": "https://raw.githubusercontent.com/openssl/openssl/master/LICENSE.txt"
+}
